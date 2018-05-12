@@ -1,0 +1,38 @@
+_repo: Charles-Journey-to-France-and-Other-Tales_36707
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36707-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barbauld, Mrs. (Anna Letitia)
+    aliases:
+    - Barbauld, Anna Letitia
+    - Barbauld, A. L. (Anna Letitia)
+    - Aikin, Anna Lætitia
+    - Barbauld, Anna Laetitia
+    - Barbauld, Anna Lætitia
+    - Aikin, Anna Laetitia
+    birthdate: 1743
+    deathdate: 1825
+    gutenberg_agent_id: '5368'
+    url: http://www.gutenberg.org/2009/agents/5368
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Laetitia_Barbauld
+description: ''
+gutenberg_issued: '2011-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: Charles' journey to France -- The ball players -- The little boy
+  who was a coward -- My mother -- Stories of dogs -- A naughty boy -- The silly lamb
+  -- Lucy and her lamb.
+title: Charles' Journey to France, and Other Tales
+url: http://www.gutenberg.org/ebooks/36707
