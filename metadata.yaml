@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5368
     wikipedia: http://en.wikipedia.org/wiki/Anna_Laetitia_Barbauld
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36707#Charles-Journey-to-France-and-Other-Tales
 gutenberg_issued: '2011-07-11'
 gutenberg_type: Text
 identifiers:
